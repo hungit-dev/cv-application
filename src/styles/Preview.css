@@ -1,0 +1,26 @@
+.preview {
+    background-color: #FFFFFF;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    min-width: 30vw;
+    box-sizing: border-box;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+    word-break: break-all;
+}
+.preview h2 {
+    color:#1976D2 ;
+    margin: 10px;
+    
+}
+.general-info-display h2 {
+    font-size: 2rem;
+}
+.preview p {
+    margin: 5px;
+}
+.practical-experience-display,
+.educational-experience-display {
+    border-top: 3px solid #1976D2 ;
+}
